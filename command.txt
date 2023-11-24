@@ -10,3 +10,8 @@ git commit -a -m"commit message"
 
 git checkout -b DevA
 git checkout main
+
+
+git pull
+
+git merge devA
