@@ -1,5 +1,12 @@
+git clone 
+
 git status
 git add .
 git commit -m"commit message"
 
 git commit -a -m"commit message"
+
+
+
+git checkout -b DevA
+git checkout main
