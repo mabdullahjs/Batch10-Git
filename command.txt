@@ -1,0 +1,5 @@
+git status
+git add .
+git commit -m"commit message"
+
+git commit -a -m"commit message"
