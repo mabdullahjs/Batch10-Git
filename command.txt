@@ -15,5 +15,3 @@ git checkout main
 git pull
 
 git merge devA
-
-file changed
